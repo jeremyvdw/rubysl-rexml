@@ -1,5 +1,4 @@
 require 'rexml/document'
-require File.expand_path('../../../../spec_helper', __FILE__)
 
 describe "REXML::Document#doctype" do
   it "returns the doctype" do

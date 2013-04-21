@@ -1,5 +1,4 @@
 require 'rexml/document'
-require File.expand_path('../../../../spec_helper', __FILE__)
 
 describe "REXML::Element#raw" do
   it "returns true if raw mode is set to all" do

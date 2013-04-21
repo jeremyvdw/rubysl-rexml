@@ -1,4 +1,3 @@
-require File.expand_path('../../../../spec_helper', __FILE__)
 require 'rexml/document'
 
 describe "REXML::Text#to_s" do

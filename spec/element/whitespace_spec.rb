@@ -1,5 +1,4 @@
 require 'rexml/document'
-require File.expand_path('../../../../spec_helper', __FILE__)
 
 describe "REXML::Element#whitespace" do
   it "returns true if whitespace is respected in the element" do
