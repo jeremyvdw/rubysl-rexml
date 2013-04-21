@@ -1,4 +1,3 @@
-require File.expand_path('../../../../spec_helper', __FILE__)
 require 'rexml/document'
 
 describe "REXML::Attribute#to_string" do
