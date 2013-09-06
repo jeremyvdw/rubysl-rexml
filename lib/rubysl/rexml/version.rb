@@ -1,5 +1,5 @@
 module RubySL
-  module Rexml
-    VERSION = "0.0.1"
+  module REXML
+    VERSION = "2.0.0"
   end
 end

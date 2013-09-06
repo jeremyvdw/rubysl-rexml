@@ -3,7 +3,7 @@ require './lib/rubysl/rexml/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rubysl-rexml"
-  spec.version       = RubySL::Rexml::VERSION
+  spec.version       = RubySL::REXML::VERSION
   spec.authors       = ["Brian Shirai"]
   spec.email         = ["brixen@gmail.com"]
   spec.description   = %q{Ruby standard library rexml.}
