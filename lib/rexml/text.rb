@@ -1,4 +1,3 @@
-require 'rexml/rexml'
 require 'rexml/entity'
 require 'rexml/doctype'
 require 'rexml/child'
